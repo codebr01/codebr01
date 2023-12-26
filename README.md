@@ -5,8 +5,6 @@
 
 ## 🛠️ My Skills
 
-### Programming languages
-
 <p> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -22,11 +20,10 @@
   </a>
   &emsp;
   <a href="https://help.localizejs.com/docs/translate-django" target="_blank"> 
-    <img alt="Django" src="https://files.readme.io/37fef53-django_logo_256x256.png">
+    <img width ="80em" alt="Django" src="https://files.readme.io/37fef53-django_logo_256x256.png">
   </a> 
   &emsp;
 </p>
-
 
  ### IDEs
  
