@@ -40,6 +40,7 @@ Sou um desenvolvedor backend buscando por novos desafios e aprendizado. Tenho ex
 - **[Nexus Marketplace](https://github.com/codebr01/marketplace-nexus)**: Nexus é uma plataforma de vendas de produtos sustentáveis. O objetivo é fornecer facilidade para que produtores consigam disponibilizar seus protudos com maior vizibilidade.
 - **[CantactSync](https://github.com/codebr01/ContactSync)**: A aplicação é um gerenciador de contados, ela permite realizar login e cadastro para ser utilizada.Ela forcene que os contados sejam cadastrados, editados ou excluidos.
 - **[Game-Tic-Tac-Toe](https://github.com/codebr01/game-tic-tac-toe)**: Projeto baseado em um jogo da velha online, desenvolvido durante a graduação como trabalho final para a discplina Programação Orientada a Objetios II.
+- **[Travel In](https://github.com/codebr01/Travel-In)**: Uma aplicação web desenvolvida com o objetivo de fornecer organização e planejamento para viajens, organiza suas atividades e seus convidados!
 ---
 
 ## Contato
