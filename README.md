@@ -1,52 +1,23 @@
-# João Neto
-
-👨‍🎓 **Graduando em Sistemas de Informação - UFPI**
+Aqui está a versão revisada do seu perfil, com uma linguagem mais formal e profissional:  
 
 ---
 
-## Sobre Mim
+# **João Neto**  
 
-Sou um desenvolvedor backend buscando por novos desafios e aprendizado. Tenho experiência com diversas linguagens e frameworks, com um foco especial em desenvolvimento backend utilizando Django e NodeJS.
+🎓 **Graduando em Sistemas de Informação - UFPI**  
 
----
+## **Sobre Mim**  
 
-## Habilidades
+Sou um desenvolvedor back-end em formação, focado no desenvolvimento de soluções eficientes e escaláveis. Apaixonado por tecnologia, busco constantemente aprimorar minhas habilidades para entregar projetos de alta qualidade. Possuo grande interesse em tecnologias voltadas para o desenvolvimento back-end e tenho um perfil analítico, sempre buscando otimizações e melhorias em minhas soluções. Além disso, sou paciente e colaborativo, gostando de contribuir para o crescimento de outros profissionais e do ambiente ao meu redor.  
 
-### Tecnologias:
+## **Projetos**  
 
-- **Django**
-- **NodeJS**
-- **.NET**
-- **NestJS**
-- **React**
+- **[Nexus Marketplace](https://github.com/codebr01/marketplace-nexus)**: Plataforma de vendas voltada para produtos sustentáveis. O projeto tem como objetivo facilitar a conexão entre produtores e consumidores, proporcionando maior visibilidade para os produtos oferecidos.  
+- **[ContactSync](https://github.com/codebr01/ContactSync)**: Aplicação para gerenciamento de contatos, permitindo cadastro, login e operações como adição, edição e exclusão de contatos.  
+- **[Game Tic-Tac-Toe](https://github.com/codebr01/game-tic-tac-toe)**: Jogo da velha online desenvolvido como projeto final da disciplina de Programação Orientada a Objetos II.  
+- **[Travel In](https://github.com/codebr01/Travel-In)**: Aplicação web desenvolvida para auxiliar no planejamento e organização de viagens, permitindo a gestão de atividades e convidados.  
 
-### Banco de Dados:
+## **Contato**  
 
-- **MySQL**
-- **MongoDB**
-- **PostgreSQL**
-
-### Conhecimento em:
-
-- **C**
-- **C#**
-- **Python**
-- **HTML**
-- **CSS**
-- **JavaScript**
----
-## Projetos
-
-- **[Nexus Marketplace](https://github.com/codebr01/marketplace-nexus)**: Nexus é uma plataforma de vendas de produtos sustentáveis. O objetivo é fornecer facilidade para que produtores consigam disponibilizar seus protudos com maior vizibilidade.
-- **[CantactSync](https://github.com/codebr01/ContactSync)**: A aplicação é um gerenciador de contados, ela permite realizar login e cadastro para ser utilizada.Ela forcene que os contados sejam cadastrados, editados ou excluidos.
-- **[Game-Tic-Tac-Toe](https://github.com/codebr01/game-tic-tac-toe)**: Projeto baseado em um jogo da velha online, desenvolvido durante a graduação como trabalho final para a discplina Programação Orientada a Objetios II.
-- **[Travel In](https://github.com/codebr01/Travel-In)**: Uma aplicação web desenvolvida com o objetivo de fornecer organização e planejamento para viajens, organiza suas atividades e seus convidados!
----
-
-## Contato
-
-📧 **Email:** [joaonetoprivado2001@gmail.com](joaonetoprivado2001@gmail.com)
-
-🌐 **LinkedIn:** [joaonetodev](https://www.linkedin.com/in/joaonetodev/)
-
-💻 **GitHub:** [codebr01](https://github.com/codebr01)
+📧 **E-mail:** [contato.devjoao2001@gmail.com](mailto:contato.devjoao2001@gmail.com)  
+🌐 **LinkedIn:** [João Neto](https://www.linkedin.com/in/joaonetodev/)
